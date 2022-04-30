@@ -4,7 +4,8 @@
   "description": "",
   "main": "resolver.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node startup",
+    "dev": "nodemon startup"
   },
   "keywords": [],
   "author": "",
